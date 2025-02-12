@@ -1,4 +1,4 @@
-# 📊 AI Report Generation  
+# 📊 AUTOMATED REPORT GENERATION  
 
 ### 🏢 Company: CODTECH IT SOLUTIONS  
 ### 👨‍💻 Intern Name: JUKANTI ABHILASH  
